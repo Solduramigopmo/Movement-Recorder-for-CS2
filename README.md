@@ -12,7 +12,7 @@ A tool for recording and playing back player movement in Counter-Strike 2. Imple
 ## Project Structure
 
 ```id="d1kq9f"
-movement_cs2/
+Movement-Recorder-for-CS2/
 │
 ├── include/
 │ ├── common.h
